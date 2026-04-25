@@ -1,6 +1,6 @@
 <div align="center"><a name="readme-top"></a>
 
-[![Project Banner](./public/chan-meng-banner.svg)](#)
+Project Banner
 
 # 🌸 FemTracker Agent<br/><h3>AI-Powered Women's Health Companion</h3>
 
@@ -8,34 +8,33 @@ An innovative women's health tracking platform that leverages cutting-edge AI mu
 Supports intelligent health analytics, real-time AI assistance, and extensible agent architecture with advanced machine learning capabilities.<br/>
 One-click **FREE** deployment of your personal health companion.
 
-[Live Demo][project-link] · [Documentation][docs] · [Agent System][agent-docs] · [Issues][github-issues-link]
+Live Demo · Documentation · Agent System · Issues
 
 <br/>
 
-[![🚀 Visit Live Site 🚀](https://gradient-svg-generator.vercel.app/api/svg?text=%F0%9F%9A%80Visit%20Live%20Site%F0%9F%9A%80&color=000000&height=60&gradientType=radial&duration=6s&color0=ffffff&template=pride-rainbow)][project-link]
+Visit Live Site
 
 <br/>
 
 <!-- SHIELD GROUP -->
 
-[![][github-release-shield]][github-release-link]
-[![][vercel-shield]][vercel-link]
-[![][discord-shield]][discord-link]<br/>
-[![][github-action-test-shield]][github-action-test-link]
-[![][github-releasedate-shield]][github-releasedate-link]<br/>
-[![][github-contributors-shield]][github-contributors-link]
-[![][github-forks-shield]][github-forks-link]
-[![][github-stars-shield]][github-stars-link]
-[![][github-issues-shield]][github-issues-link]
-[![][github-license-shield]][github-license-link]<br>
+Release
+Vercel
+Discord<br/>
+GitHub Action Tests
+Release Date<br/>
+Forks
+Stars
+Issues
+License<br>
 
 **Share FemTracker Agent**
 
-[![][share-x-shield]][share-x-link]
-[![][share-telegram-shield]][share-telegram-link]
-[![][share-whatsapp-shield]][share-whatsapp-link]
-[![][share-reddit-shield]][share-reddit-link]
-[![][share-linkedin-shield]][share-linkedin-link]
+Share on X
+Share on Telegram
+Share on WhatsApp
+Share on Reddit
+Share on LinkedIn
 
 <sup>🌟 Pioneering the future of women's health technology. Built for the next generation of personalized healthcare.</sup>
 
@@ -64,41 +63,41 @@ One-click **FREE** deployment of your personal health companion.
 
 #### TOC
 
-- [🌸 FemTracker Agent](#-femtracker-agent)
-      - [TOC](#toc)
-  - [🌟 Introduction](#-introduction)
-  - [✨ Key Features](#-key-features)
-    - [`1` Advanced AI Multi-Agent System](#1-advanced-ai-multi-agent-system)
-    - [`2` Comprehensive Health Analytics](#2-comprehensive-health-analytics)
-    - [`*` Additional Features](#-additional-features)
-  - [🛠️ Tech Stack](#️-tech-stack)
-  - [🏗️ Architecture](#️-architecture)
-    - [Multi-Agent System Architecture](#multi-agent-system-architecture)
-    - [Data Flow](#data-flow)
-    - [Component Structure](#component-structure)
-  - [⚡️ Performance](#️-performance)
-  - [🚀 Getting Started](#-getting-started)
-    - [Prerequisites](#prerequisites)
-    - [Quick Installation](#quick-installation)
-    - [Environment Setup](#environment-setup)
-    - [Development Mode](#development-mode)
-  - [🛳 Deployment](#-deployment)
-    - [`A` Cloud Deployment](#a-cloud-deployment)
-    - [`B` Docker Deployment](#b-docker-deployment)
-    - [`C` Environment Variables](#c-environment-variables)
-  - [📖 Usage Guide](#-usage-guide)
-    - [Basic Usage](#basic-usage)
-    - [AI Agent System](#ai-agent-system)
-    - [Health Scoring System](#health-scoring-system)
-  - [🤖 AI Agents](#-ai-agents)
-  - [📦 Database Schema](#-database-schema)
-  - [⌨️ Development](#️-development)
-    - [Local Development](#local-development)
-    - [Adding New Agents](#adding-new-agents)
-    - [Creating Custom Health Modules](#creating-custom-health-modules)
-  - [🤝 Contributing](#-contributing)
-  - [📄 License](#-license)
-  - [👥 Team](#-team)
+- 🌸 FemTracker Agent
+      - TOC
+  - 🌟 Introduction
+  - ✨ Key Features
+    - `1` Advanced AI Multi-Agent System
+    - `2` Comprehensive Health Analytics
+    - `*` Additional Features
+  - 🛠️ Tech Stack
+  - 🏗️ Architecture
+    - Multi-Agent System Architecture
+    - Data Flow
+    - Component Structure
+  - ⚡️ Performance
+  - 🚀 Getting Started
+    - Prerequisites
+    - Quick Installation
+    - Environment Setup
+    - Development Mode
+  - 🛳 Deployment
+    - `A` Cloud Deployment
+    - `B` Docker Deployment
+    - `C` Environment Variables
+  - 📖 Usage Guide
+    - Basic Usage
+    - AI Agent System
+    - Health Scoring System
+  - 🤖 AI Agents
+  - 📦 Database Schema
+  - ⌨️ Development
+    - Local Development
+    - Adding New Agents
+    - Creating Custom Health Modules
+  - 🤝 Contributing
+  - 📄 License
+  - 👥 Team
 
 ####
 
@@ -119,9 +118,9 @@ Whether you're tracking your menstrual cycle, fertility journey, or overall well
 > - OpenAI API key required for AI features
 > - Redis optional for enhanced performance
 
-| [![][demo-shield-badge]][demo-link]   | No installation required! Experience our AI-powered health tracking platform.                           |
+| Demo Available Online | No installation required! Experience our AI-powered health tracking platform.                           |
 | :------------------------------------ | :--------------------------------------------------------------------------------------------- |
-| [![][discord-shield-badge]][discord-link] | Join our community! Connect with developers and health-conscious users. |
+| Discord Community | Join our community! Connect with developers and health-conscious users. |
 
 > [!TIP]
 > **⭐ Star us** to receive all release notifications and support the development of open-source women's health technology!
@@ -141,9 +140,9 @@ Whether you're tracking your menstrual cycle, fertility journey, or overall well
 
 <div align="center">
 
-[![FemTracker Agent - AI-Powered Women's Health Companion Demo](https://img.youtube.com/vi/VVCQKmeEtRs/maxresdefault.jpg)](https://youtu.be/VVCQKmeEtRs?si=j74lzM_UfeACgYKu)
+FemTracker Agent - AI-Powered Women's Health Companion Demo
 
-**🎬 [Watch Project Demo on YouTube](https://youtu.be/VVCQKmeEtRs?si=j74lzM_UfeACgYKu)**
+**🎬 Watch Project Demo on YouTube**
 
 *Complete project walkthrough showcasing AI agent system, health tracking features, and real-time analytics*
 
@@ -159,7 +158,7 @@ Whether you're tracking your menstrual cycle, fertility journey, or overall well
 
 ## ✨ Key Features
 
-### `1` [Advanced AI Multi-Agent System][docs-ai-agents]
+### `1` Advanced AI Multi-Agent System
 
 Experience next-generation health tracking through our revolutionary 8-agent AI system. Each specialized agent provides domain-specific expertise while our main coordinator ensures seamless interaction and intelligent routing.
 
@@ -179,7 +178,7 @@ Key capabilities include:
 - 📱 **CopilotKit Integration**: Seamless conversational AI experience
 - 🛡️ **Enterprise-grade Security**: Secure agent communication and data handling
 
-### `2` [Comprehensive Health Analytics][docs-health-analytics]
+### `2` Comprehensive Health Analytics
 
 Revolutionary health scoring system that transforms personal health data into actionable insights. Our WHO-standard algorithms provide personalized recommendations while maintaining the highest accuracy standards.
 
@@ -197,7 +196,7 @@ Revolutionary health scoring system that transforms personal health data into ac
 - 📈 **Performance Optimization**: 90%+ Redis cache hit rate for instant data access
 - 🔄 **Real-time Synchronization**: Live updates across all health modules
 
-[![][back-to-top]](#readme-top)
+Back to top
 
 ### `*` Additional Features
 
@@ -220,7 +219,7 @@ Beyond the core AI agent system, FemTracker Agent includes:
 
 <div align="right">
 
-[![][back-to-top]](#readme-top)
+Back to top
 
 </div>
 
@@ -446,53 +445,7 @@ const cacheStrategies = {
 > [!NOTE]
 > Performance metrics are continuously monitored using real-time analytics and automatically optimized based on usage patterns.
 
-<!-- Links will be defined at the bottom of the file -->
-[project-link]: https://femtracker-agent.vercel.app/
-[docs]: #
-[agent-docs]: #
-[docs-ai-agents]: #
-[docs-health-analytics]: #
-[demo-link]: https://femtracker-agent.vercel.app/
-[github-issues-link]: https://github.com/ChanMeng666/femtracker-agent/issues
-[github-release-link]: https://github.com/ChanMeng666/femtracker-agent/releases
-[github-contributors-link]: https://github.com/ChanMeng666/femtracker-agent/contributors
-[github-forks-link]: https://github.com/ChanMeng666/femtracker-agent/forks
-[github-stars-link]: https://github.com/ChanMeng666/femtracker-agent/stargazers
-[github-license-link]: https://github.com/ChanMeng666/femtracker-agent/blob/master/LICENSE
-[github-releasedate-link]: https://github.com/ChanMeng666/femtracker-agent/releases
-[github-action-test-link]: https://github.com/ChanMeng666/femtracker-agent/actions
-[vercel-link]: https://femtracker-agent.vercel.app/
-[discord-link]: #
-[back-to-top]: https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square
 
-<!-- Shield Badges -->
-[github-release-shield]: https://img.shields.io/github/v/release/ChanMeng666/femtracker-agent?color=369eff&labelColor=black&logo=github&style=flat-square
-[vercel-shield]: https://img.shields.io/badge/vercel-online-55b467?labelColor=black&logo=vercel&style=flat-square
-[discord-shield]: https://img.shields.io/badge/discord-join-5865F2?labelColor=black&logo=discord&logoColor=white&style=flat-square
-[github-action-test-shield]: https://img.shields.io/github/actions/workflow/status/ChanMeng666/femtracker-agent/test.yml?label=test&labelColor=black&logo=githubactions&logoColor=white&style=flat-square
-[github-releasedate-shield]: https://img.shields.io/github/release-date/ChanMeng666/femtracker-agent?labelColor=black&style=flat-square
-[github-contributors-shield]: https://img.shields.io/github/contributors/ChanMeng666/femtracker-agent?color=c4f042&labelColor=black&style=flat-square
-[github-forks-shield]: https://img.shields.io/github/forks/ChanMeng666/femtracker-agent?color=8ae8ff&labelColor=black&style=flat-square
-[github-stars-shield]: https://img.shields.io/github/stars/ChanMeng666/femtracker-agent?color=ffcb47&labelColor=black&style=flat-square
-[github-issues-shield]: https://img.shields.io/github/issues/ChanMeng666/femtracker-agent?color=ff80eb&labelColor=black&style=flat-square
-[github-license-shield]: https://img.shields.io/badge/license-MIT-white?labelColor=black&style=flat-square
-
-<!-- Badge Variants -->
-[demo-shield-badge]: https://img.shields.io/badge/TRY%20DEMO-ONLINE-55b467?labelColor=black&logo=vercel&style=for-the-badge
-[discord-shield-badge]: https://img.shields.io/badge/JOIN%20DISCORD-COMMUNITY-5865F2?labelColor=black&logo=discord&logoColor=white&style=for-the-badge
-
-<!-- Social Share Links -->
-[share-x-link]: https://x.com/intent/tweet?hashtags=opensource,healthtech,AI&text=Check%20out%20FemTracker%20Agent%20-%20AI-powered%20women%27s%20health%20companion&url=https%3A%2F%2Fgithub.com%2FChanMeng666%2Ffemtracker-agent
-[share-telegram-link]: https://t.me/share/url?text=FemTracker%20Agent%20-%20AI-powered%20women%27s%20health%20companion&url=https%3A%2F%2Fgithub.com%2FChanMeng666%2Ffemtracker-agent
-[share-whatsapp-link]: https://api.whatsapp.com/send?text=Check%20out%20FemTracker%20Agent%20-%20AI-powered%20women%27s%20health%20companion%20https%3A%2F%2Fgithub.com%2FChanMeng666%2Ffemtracker-agent
-[share-reddit-link]: https://www.reddit.com/submit?title=FemTracker%20Agent%20-%20AI-powered%20women%27s%20health%20companion&url=https%3A%2F%2Fgithub.com%2FChanMeng666%2Ffemtracker-agent
-[share-linkedin-link]: https://linkedin.com/sharing/share-offsite/?url=https://github.com/ChanMeng666/femtracker-agent
-
-[share-x-shield]: https://img.shields.io/badge/-share%20on%20x-black?labelColor=black&logo=x&logoColor=white&style=flat-square
-[share-telegram-shield]: https://img.shields.io/badge/-share%20on%20telegram-black?labelColor=black&logo=telegram&logoColor=white&style=flat-square
-[share-whatsapp-shield]: https://img.shields.io/badge/-share%20on%20whatsapp-black?labelColor=black&logo=whatsapp&logoColor=white&style=flat-square
-[share-reddit-shield]: https://img.shields.io/badge/-share%20on%20reddit-black?labelColor=black&logo=reddit&logoColor=white&style=flat-square
-[share-linkedin-shield]: https://img.shields.io/badge/-share%20on%20linkedin-black?labelColor=black&logo=linkedin&logoColor=white&style=flat-square
 
 ## 🚀 Getting Started
 
@@ -501,13 +454,13 @@ const cacheStrategies = {
 > [!IMPORTANT]
 > Ensure you have the following installed and configured:
 
-- **Node.js 18.0+** ([Download](https://nodejs.org/))
-- **Python 3.12+** for AI agent system ([Download](https://python.org/))
+- **Node.js 18.0+**
+- **Python 3.12+** for AI agent system
 - **npm/yarn/pnpm** package manager (pnpm recommended)
-- **Git** version control ([Download](https://git-scm.com/))
-- **Supabase Account** for database ([Sign up](https://supabase.com/))
-- **OpenAI API Key** for AI features ([Get API Key](https://platform.openai.com/))
-- **Redis** (optional) for enhanced performance ([Redis Cloud](https://redis.com/))
+- **Git** version control
+- **Supabase Account** for database
+- **OpenAI API Key** for AI features
+- **Redis** (optional) for enhanced performance
 
 ### Quick Installation
 
@@ -658,7 +611,7 @@ yarn dev
 
 **Vercel (Frontend - Recommended)**
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FChanMeng666%2Ffemtracker-agent)
+Deploy with Vercel
 
 **Manual Deployment:**
 
@@ -1183,7 +1136,7 @@ python -m pytest --cov  # Coverage report
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the LICENSE file for details.
 
 **Open Source Benefits:**
 - ✅ Commercial use allowed
@@ -1198,40 +1151,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - 🌍 Open-source algorithms for transparency
 - 🤝 Community-driven health improvements
 
-## 👥 Team
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/ChanMeng666">
-          <img src="https://github.com/ChanMeng666.png?size=100" width="100px;" alt="Chan Meng"/>
-          <br />
-          <sub><b>Chan Meng</b></sub>
-        </a>
-        <br />
-        <small>Creator & Lead Developer</small>
-        <br />
-        <small>AI Agent Architecture • Health Analytics • Frontend Development</small>
-      </td>
-    </tr>
-  </table>
-</div>
-
-## 🙋‍♀️ Author
-
-**Chan Meng**
-- <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="16" height="16"> LinkedIn: [chanmeng666](https://www.linkedin.com/in/chanmeng666/)
-- <img src="https://cdn.simpleicons.org/github/181717" width="16" height="16"> GitHub: [ChanMeng666](https://github.com/ChanMeng666)
-- <img src="https://cdn.simpleicons.org/gmail/EA4335" width="16" height="16"> Email: [chanmeng.dev@gmail.com](mailto:chanmeng.dev@gmail.com)
-- <img src="https://cdn.simpleicons.org/internetexplorer/0078D4" width="16" height="16"> Portfolio: [chanmeng.live](https://2d-portfolio-eta.vercel.app/)
-
-**Specializations:**
-- 🤖 AI Agent System Architecture
-- 💊 Healthcare Technology Development  
-- 📊 Health Analytics and WHO Standard Implementation
-- 🌸 Women's Health Technology Innovation
-
 ---
 
 <div align="center">
@@ -1243,8 +1162,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ⭐ **Star us on GitHub** • 📖 **Read the Documentation** • 🐛 **Report Issues** • 💡 **Request Features** • 🤝 **Contribute to Women's Health Tech**
 
 <br/><br/>
-
-**Made with ❤️ by the FemTracker Agent team**
 
 <img src="https://img.shields.io/github/stars/ChanMeng666/femtracker-agent?style=social" alt="GitHub stars">
 <img src="https://img.shields.io/github/forks/ChanMeng666/femtracker-agent?style=social" alt="GitHub forks">
